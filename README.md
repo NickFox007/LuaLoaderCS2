@@ -1,7 +1,7 @@
 # LuaLoaderCS2
 LuaLoader for simple lua-scripts loading
 
-Example script using this loader is on path scripts/vscripts/example.lua
+Example script using this loader is on path csgo/scripts/vscripts/example.lua
 
 # Commands
 
