@@ -1,6 +1,8 @@
 # LuaLoaderCS2
 LuaLoader for simple lua-scripts loading
 
+Example script using this loader is on path scripts/vscripts/example.lua
+
 # Commands
 
 lua_loadscript SCRIPT_NAME - loads script from scripts/vscripts by its name
